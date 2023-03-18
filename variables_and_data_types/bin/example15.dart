@@ -1,4 +1,4 @@
-void main(List<String> args) {
+void main() {
   const int someInteger = 10;
   print(someInteger);
   const double someDouble = 10.5;
